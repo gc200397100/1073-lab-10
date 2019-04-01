@@ -29,6 +29,7 @@ header p {
 section {
 	display: flex;
 	justify-content: space-between;
+	wrap: wrap;
 	margin-bottom: 5rem;
 }
 section article {
