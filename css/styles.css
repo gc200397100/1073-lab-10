@@ -36,8 +36,10 @@ section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%;
+	height: 400px;
+	width: 300px;
 	flex-basis: 25%;
+	margin: 2.5% auto;
 }
 article img {
 	display: block;
